@@ -1,0 +1,40 @@
+_repo: Selections-from-Aunt-Sammy-s-Radio-Recipes-and-USDA-Favorites_65379
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Yeatman, Fanny Walker
+    alias: Yeatman, Fanny Jerome Walker
+    birthdate: 1876
+    deathdate: 1962
+    gutenberg_agent_id: '53308'
+    url: http://www.gutenberg.org/2009/agents/53308
+  - agent_name: Van Deman, Ruth
+    alias: Deman, Ruth Van
+    birthdate: 1888
+    deathdate: 1948
+    gutenberg_agent_id: '53309'
+    url: http://www.gutenberg.org/2009/agents/53309
+  - agent_name: Consumer and Food Economics Institute (U.S.)
+    aliases:
+    - United States. Science and Education Administration. Consumer and Food Economics
+      Institute
+    - United States. Consumer and Food Economics Institute
+    - Human Nutrition Center (U.S.). Consumer and Food Economics Institute
+    gutenberg_agent_id: '53313'
+    url: http://www.gutenberg.org/2009/agents/53313
+description: 'Aunt Sammy at Wikipedia: https://en.wikipedia.org/wiki/Aunt_Sammy'
+gutenberg_issued: '2021-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65379'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, American'
+- !lcsh 'Cookbooks'
+- GITenberg
+title: Selections from Aunt Sammy's Radio Recipes and USDA Favorites
+url: http://www.gutenberg.org/ebooks/65379
